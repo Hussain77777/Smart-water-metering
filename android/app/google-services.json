@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "526534535188",
+    "firebase_url": "https://fyp4-9b1fc-default-rtdb.firebaseio.com",
+    "project_id": "fyp4-9b1fc",
+    "storage_bucket": "fyp4-9b1fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526534535188:android:98d0a4ac75137899a05f01",
+        "android_client_info": {
+          "package_name": "com.example.finalwaterappuser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526534535188-flago56rfu3ggq9ttnjrk5uhclta2ch7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAW1cdlIxNPUspKOuE_Ie59omV2tg_SvA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526534535188-flago56rfu3ggq9ttnjrk5uhclta2ch7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526534535188:android:09f42b7b49861991a05f01",
+        "android_client_info": {
+          "package_name": "com.hussain.water.metering"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526534535188-flago56rfu3ggq9ttnjrk5uhclta2ch7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAW1cdlIxNPUspKOuE_Ie59omV2tg_SvA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526534535188-flago56rfu3ggq9ttnjrk5uhclta2ch7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
